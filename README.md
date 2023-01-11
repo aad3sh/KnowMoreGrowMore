@@ -1,0 +1,2 @@
+# KnowMoreGrowMore
+Education management system
